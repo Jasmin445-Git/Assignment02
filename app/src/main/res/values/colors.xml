@@ -1,0 +1,14 @@
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="button_color">#7B4DCC</color> <!-- Vibrant button color -->
+    <color name="search_hint">#AAAAAA</color> <!-- Lighter hint color -->
+    <color name="edit_text_bg">#1E1E1E</color> <!-- Background color for EditText -->
+    <color name="card_bg">#333333</color> <!-- Darker background for RecyclerView items -->
+    <color name="card_border">#7B4DCC</color> <!-- Border color for cards -->
+</resources>
